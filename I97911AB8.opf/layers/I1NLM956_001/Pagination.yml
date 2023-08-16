@@ -1,0 +1,970 @@
+id: bec012e6ea2b4e3b8270aca75b99420c
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  6cb43201254c40618d45c61bcfc9fc7c:
+    span:
+      start: 0
+      end: 83
+    imgnum: 2
+    reference: I1NLM956_0010002.jpg
+  c9aa5c9a410e4d0f9daa21242c126536:
+    span:
+      start: 84
+      end: 886
+    imgnum: 3
+    reference: I1NLM956_0010003.jpg
+  7685ba303193471e9da609a0ef7e0b21:
+    span:
+      start: 887
+      end: 1733
+    imgnum: 4
+    reference: I1NLM956_0010004.jpg
+  f734837b02b143508ffc3301c0b17085:
+    span:
+      start: 1734
+      end: 3332
+    imgnum: 5
+    reference: I1NLM956_0010005.jpg
+  df8e2eba38d14da8b43316046740d10a:
+    span:
+      start: 3333
+      end: 4947
+    imgnum: 6
+    reference: I1NLM956_0010006.jpg
+  aafec73a0c9e49e5a04b86a9377bbf17:
+    span:
+      start: 4948
+      end: 6677
+    imgnum: 7
+    reference: I1NLM956_0010007.jpg
+  591fee477425493a82571391f11cf319:
+    span:
+      start: 6678
+      end: 8393
+    imgnum: 8
+    reference: I1NLM956_0010008.jpg
+  ac1f3e2a70c24dcf922c1f31473f92dd:
+    span:
+      start: 8394
+      end: 10063
+    imgnum: 9
+    reference: I1NLM956_0010009.jpg
+  f62ce39684e64b71bbade659d8c9a168:
+    span:
+      start: 10064
+      end: 11748
+    imgnum: 10
+    reference: I1NLM956_0010010.jpg
+  57c48b1653d449b6b16f8217398c0830:
+    span:
+      start: 11749
+      end: 13508
+    imgnum: 11
+    reference: I1NLM956_0010011.jpg
+  b4e1a71a445249cb9d4127ec0f6858af:
+    span:
+      start: 13509
+      end: 15178
+    imgnum: 12
+    reference: I1NLM956_0010012.jpg
+  be259dbec2a141b4986cb1c2e1357f5a:
+    span:
+      start: 15179
+      end: 16820
+    imgnum: 13
+    reference: I1NLM956_0010013.jpg
+  9bcd90f8d443468f9227c09fef3c5a5b:
+    span:
+      start: 16821
+      end: 17295
+    imgnum: 14
+    reference: I1NLM956_0010014.jpg
+  1cb7f0513b034aa4824b343069c89187:
+    span:
+      start: 17296
+      end: 18918
+    imgnum: 15
+    reference: I1NLM956_0010015.jpg
+  daeb107ab9b14c5787528f3e691bb204:
+    span:
+      start: 18919
+      end: 20473
+    imgnum: 16
+    reference: I1NLM956_0010016.jpg
+  f3cf000e3b2246468eb216ced8db3da2:
+    span:
+      start: 20474
+      end: 22009
+    imgnum: 17
+    reference: I1NLM956_0010017.jpg
+  a2a2810e2fe7449187c5976f5920c0bb:
+    span:
+      start: 22010
+      end: 23544
+    imgnum: 18
+    reference: I1NLM956_0010018.jpg
+  a643b9233ca643669b722ebb4829dc4c:
+    span:
+      start: 23545
+      end: 25059
+    imgnum: 19
+    reference: I1NLM956_0010019.jpg
+  b12ae10c9852420993079338bdd0cd2d:
+    span:
+      start: 25060
+      end: 25686
+    imgnum: 20
+    reference: I1NLM956_0010020.jpg
+  f53cab1467a441098c3bc4cd1e0bd4cb:
+    span:
+      start: 25687
+      end: 27198
+    imgnum: 21
+    reference: I1NLM956_0010021.jpg
+  0679176349f44da99e5fd67a55a7b309:
+    span:
+      start: 27199
+      end: 28935
+    imgnum: 22
+    reference: I1NLM956_0010022.jpg
+  f06c7de9da92486c9806c201c543c22b:
+    span:
+      start: 28936
+      end: 30545
+    imgnum: 23
+    reference: I1NLM956_0010023.jpg
+  8be4703cbaf8421b81e12c1a03f0189f:
+    span:
+      start: 30546
+      end: 32312
+    imgnum: 24
+    reference: I1NLM956_0010024.jpg
+  4dd1bc809ceb4c63ad683b3ccb69e91c:
+    span:
+      start: 32313
+      end: 33815
+    imgnum: 25
+    reference: I1NLM956_0010025.jpg
+  f1e9121af0a14322b4cf3f9898902be6:
+    span:
+      start: 33816
+      end: 35395
+    imgnum: 26
+    reference: I1NLM956_0010026.jpg
+  d83b9584219b4d849cf974e3a10db1ec:
+    span:
+      start: 35396
+      end: 37017
+    imgnum: 27
+    reference: I1NLM956_0010027.jpg
+  5483ac9928e942c18053cae2738972ea:
+    span:
+      start: 37018
+      end: 38641
+    imgnum: 28
+    reference: I1NLM956_0010028.jpg
+  135d4de7f51c4b3c9ed500cfb49d57c8:
+    span:
+      start: 38642
+      end: 40247
+    imgnum: 29
+    reference: I1NLM956_0010029.jpg
+  b93461280dc74d3eb531bb8a71f6889e:
+    span:
+      start: 40248
+      end: 41775
+    imgnum: 30
+    reference: I1NLM956_0010030.jpg
+  54e9e5f6530f4522a5979cfed4f7a1a9:
+    span:
+      start: 41776
+      end: 43316
+    imgnum: 31
+    reference: I1NLM956_0010031.jpg
+  40aeb30670b44f318050669eb9b82c8b:
+    span:
+      start: 43317
+      end: 44970
+    imgnum: 32
+    reference: I1NLM956_0010032.jpg
+  3f874a49fc4a422090780606cc0998c5:
+    span:
+      start: 44971
+      end: 46659
+    imgnum: 33
+    reference: I1NLM956_0010033.jpg
+  42fcb4e087ba47559cbe18c91225bab1:
+    span:
+      start: 46660
+      end: 48204
+    imgnum: 34
+    reference: I1NLM956_0010034.jpg
+  d4d5410c1a844e78bf074dc365bba2fb:
+    span:
+      start: 48205
+      end: 49785
+    imgnum: 35
+    reference: I1NLM956_0010035.jpg
+  48c3e9eb94bf441bbb4de0ced5e5c2a0:
+    span:
+      start: 49786
+      end: 51379
+    imgnum: 36
+    reference: I1NLM956_0010036.jpg
+  a15620f700c244bc84fac270b4e2165e:
+    span:
+      start: 51380
+      end: 52892
+    imgnum: 37
+    reference: I1NLM956_0010037.jpg
+  506c702ee99948129f5d287a577f54e4:
+    span:
+      start: 52893
+      end: 54474
+    imgnum: 38
+    reference: I1NLM956_0010038.jpg
+  1698e73da7f042008d78ffba86bb4f57:
+    span:
+      start: 54475
+      end: 55985
+    imgnum: 39
+    reference: I1NLM956_0010039.jpg
+  f31c185e22e24c87821e95dd198447d8:
+    span:
+      start: 55986
+      end: 57422
+    imgnum: 40
+    reference: I1NLM956_0010040.jpg
+  22957205acf943ff93134c6f8d5985bf:
+    span:
+      start: 57423
+      end: 58941
+    imgnum: 41
+    reference: I1NLM956_0010041.jpg
+  a64ade4a42274256a7f990753a68f774:
+    span:
+      start: 58942
+      end: 60471
+    imgnum: 42
+    reference: I1NLM956_0010042.jpg
+  e4ddc754b64942b78c253414911181f7:
+    span:
+      start: 60472
+      end: 61988
+    imgnum: 43
+    reference: I1NLM956_0010043.jpg
+  716cbdff49ff4ac6a7938d86d4f90a98:
+    span:
+      start: 61989
+      end: 63511
+    imgnum: 44
+    reference: I1NLM956_0010044.jpg
+  def24b3f177d4272ac49bba83e2f25e9:
+    span:
+      start: 63512
+      end: 65087
+    imgnum: 45
+    reference: I1NLM956_0010045.jpg
+  81fae51e36434dbb933ecd250fcb03de:
+    span:
+      start: 65088
+      end: 66549
+    imgnum: 46
+    reference: I1NLM956_0010046.jpg
+  6f535ab35dff49b3ab59327225411507:
+    span:
+      start: 66550
+      end: 68048
+    imgnum: 47
+    reference: I1NLM956_0010047.jpg
+  50c724a018214b819cd047bc27c4ec9f:
+    span:
+      start: 68049
+      end: 69627
+    imgnum: 48
+    reference: I1NLM956_0010048.jpg
+  fd48289e64034ff691326cc57862eb5f:
+    span:
+      start: 69628
+      end: 71148
+    imgnum: 49
+    reference: I1NLM956_0010049.jpg
+  2a2f8e6a2ee44ebabe35f7db52a6f231:
+    span:
+      start: 71149
+      end: 72752
+    imgnum: 50
+    reference: I1NLM956_0010050.jpg
+  4f5b200e72784f3eb6fd5355a0ccec59:
+    span:
+      start: 72753
+      end: 74414
+    imgnum: 51
+    reference: I1NLM956_0010051.jpg
+  b3d674973ab44c909dcb028e0f720207:
+    span:
+      start: 74415
+      end: 75995
+    imgnum: 52
+    reference: I1NLM956_0010052.jpg
+  aaf7cfd7a8a14c2d82c03a4bd9d3a33d:
+    span:
+      start: 75996
+      end: 77541
+    imgnum: 53
+    reference: I1NLM956_0010053.jpg
+  5dd1ce4f272043da8dde490f84b2e644:
+    span:
+      start: 77542
+      end: 79080
+    imgnum: 54
+    reference: I1NLM956_0010054.jpg
+  175593fe435c4a4f9d6965902405233e:
+    span:
+      start: 79081
+      end: 80727
+    imgnum: 55
+    reference: I1NLM956_0010055.jpg
+  0421d8c475bf482db1a303395832b1b5:
+    span:
+      start: 80728
+      end: 82256
+    imgnum: 56
+    reference: I1NLM956_0010056.jpg
+  730275f4804d4105b28f8539a8aca00e:
+    span:
+      start: 82257
+      end: 83794
+    imgnum: 57
+    reference: I1NLM956_0010057.jpg
+  39c3e5ab5b9b473c9e2ccaf3f5174b9b:
+    span:
+      start: 83795
+      end: 85406
+    imgnum: 58
+    reference: I1NLM956_0010058.jpg
+  13f1ed372e2f48bd89b0e7d1d01e8bff:
+    span:
+      start: 85407
+      end: 86946
+    imgnum: 59
+    reference: I1NLM956_0010059.jpg
+  4b041459fab44e0494daf0acf229c9d7:
+    span:
+      start: 86947
+      end: 87294
+    imgnum: 60
+    reference: I1NLM956_0010060.jpg
+  17ee66d48f774c59a0c2b42941446e20:
+    span:
+      start: 87295
+      end: 88817
+    imgnum: 61
+    reference: I1NLM956_0010061.jpg
+  f2961733b48b421882d50520cf705b0c:
+    span:
+      start: 88818
+      end: 90367
+    imgnum: 62
+    reference: I1NLM956_0010062.jpg
+  8633bf0311224dcea342250f743d84c1:
+    span:
+      start: 90368
+      end: 92005
+    imgnum: 63
+    reference: I1NLM956_0010063.jpg
+  b1fcfd4be44047658a8e49da4403b485:
+    span:
+      start: 92006
+      end: 93609
+    imgnum: 64
+    reference: I1NLM956_0010064.jpg
+  a7e7d51dba36436f92f3f525c9a9d6b4:
+    span:
+      start: 93610
+      end: 95277
+    imgnum: 65
+    reference: I1NLM956_0010065.jpg
+  6dc6f2e8097e4e81b53ba3d914fcdef0:
+    span:
+      start: 95278
+      end: 96784
+    imgnum: 66
+    reference: I1NLM956_0010066.jpg
+  de0f31e3540a42b384684c88b65e6851:
+    span:
+      start: 96785
+      end: 98370
+    imgnum: 67
+    reference: I1NLM956_0010067.jpg
+  39aed23889c74a9c951d8961dfed7b1b:
+    span:
+      start: 98371
+      end: 98721
+    imgnum: 68
+    reference: I1NLM956_0010068.jpg
+  7148ea4d9c414950a32272f074b59396:
+    span:
+      start: 98722
+      end: 100348
+    imgnum: 69
+    reference: I1NLM956_0010069.jpg
+  d606e5ccec5046da8a1a0e9b9e90fff8:
+    span:
+      start: 100349
+      end: 101926
+    imgnum: 70
+    reference: I1NLM956_0010070.jpg
+  f08da484486f420ca43c8ff63759a82a:
+    span:
+      start: 101927
+      end: 103576
+    imgnum: 71
+    reference: I1NLM956_0010071.jpg
+  d4b64790ca49459aa973989c2dd5d743:
+    span:
+      start: 103577
+      end: 105128
+    imgnum: 72
+    reference: I1NLM956_0010072.jpg
+  d5a49ac5084746f88862bfa3fb5794c6:
+    span:
+      start: 105129
+      end: 106638
+    imgnum: 73
+    reference: I1NLM956_0010073.jpg
+  4f71d23cb09840f792aa6b77d89b46ee:
+    span:
+      start: 106639
+      end: 108269
+    imgnum: 74
+    reference: I1NLM956_0010074.jpg
+  a60ac8e9b0a945189badf9e61eebeecc:
+    span:
+      start: 108270
+      end: 109481
+    imgnum: 75
+    reference: I1NLM956_0010075.jpg
+  be32ff0aa5e74da5a4f5347f3e5d9d0b:
+    span:
+      start: 109482
+      end: 109561
+    imgnum: 76
+    reference: I1NLM956_0010076.jpg
+  5f7c4629745d4a13a27ffac09bf146b0:
+    span:
+      start: 109562
+      end: 110760
+    imgnum: 77
+    reference: I1NLM956_0010077.jpg
+  4d19671808c6419d804693c470e1044e:
+    span:
+      start: 110761
+      end: 111706
+    imgnum: 78
+    reference: I1NLM956_0010078.jpg
+  173ce1c4a6074feaadb8df667ce95dfd:
+    span:
+      start: 111707
+      end: 113288
+    imgnum: 79
+    reference: I1NLM956_0010079.jpg
+  06d66331339d4eafae8b075d70309034:
+    span:
+      start: 113289
+      end: 114840
+    imgnum: 80
+    reference: I1NLM956_0010080.jpg
+  85ce93c6be9a4935ba6ba6ce65124230:
+    span:
+      start: 114841
+      end: 116396
+    imgnum: 81
+    reference: I1NLM956_0010081.jpg
+  96167b3bc3454472a1ce6e1596074e9e:
+    span:
+      start: 116397
+      end: 117953
+    imgnum: 82
+    reference: I1NLM956_0010082.jpg
+  5ad1b8aa6bd84f7e9e5ed500875546ae:
+    span:
+      start: 117954
+      end: 118684
+    imgnum: 83
+    reference: I1NLM956_0010083.jpg
+  226070a813934c7b9ffe5a787d67ee32:
+    span:
+      start: 118685
+      end: 120288
+    imgnum: 84
+    reference: I1NLM956_0010084.jpg
+  800fa0c139b44390b6c35f5ee241c070:
+    span:
+      start: 120289
+      end: 121977
+    imgnum: 85
+    reference: I1NLM956_0010085.jpg
+  847028eea3d24d6cbb470a01b6cbbae5:
+    span:
+      start: 121978
+      end: 123585
+    imgnum: 86
+    reference: I1NLM956_0010086.jpg
+  eccf554c89f9424cb8279552d53f37ab:
+    span:
+      start: 123586
+      end: 125208
+    imgnum: 87
+    reference: I1NLM956_0010087.jpg
+  56da80823408481cb63aef16080b39fd:
+    span:
+      start: 125209
+      end: 126749
+    imgnum: 88
+    reference: I1NLM956_0010088.jpg
+  f198497ea95745fc81a1952ca7358bdc:
+    span:
+      start: 126750
+      end: 128421
+    imgnum: 89
+    reference: I1NLM956_0010089.jpg
+  a650785ead77407aaec81d00f18bc08f:
+    span:
+      start: 128422
+      end: 130036
+    imgnum: 90
+    reference: I1NLM956_0010090.jpg
+  20bc7a4c19c04067978ff1800fc4b837:
+    span:
+      start: 130037
+      end: 131592
+    imgnum: 91
+    reference: I1NLM956_0010091.jpg
+  b25e7e36661c414b9c3c6a35ec3274fa:
+    span:
+      start: 131593
+      end: 133134
+    imgnum: 92
+    reference: I1NLM956_0010092.jpg
+  66785cb83c614670b0a69fa45702460a:
+    span:
+      start: 133135
+      end: 134712
+    imgnum: 93
+    reference: I1NLM956_0010093.jpg
+  de4500cc66624d0384ae526ef64ee13d:
+    span:
+      start: 134713
+      end: 136320
+    imgnum: 94
+    reference: I1NLM956_0010094.jpg
+  17e17054179f4fe793f59d2f31fdfb45:
+    span:
+      start: 136321
+      end: 137986
+    imgnum: 95
+    reference: I1NLM956_0010095.jpg
+  6b863ee7d7d5413fb4cd406f03c46b99:
+    span:
+      start: 137987
+      end: 139620
+    imgnum: 96
+    reference: I1NLM956_0010096.jpg
+  1a00ce523f214c7ab197e495077300b5:
+    span:
+      start: 139621
+      end: 141298
+    imgnum: 97
+    reference: I1NLM956_0010097.jpg
+  58d230ef9deb46ce820228b5d0a0bd76:
+    span:
+      start: 141299
+      end: 143038
+    imgnum: 98
+    reference: I1NLM956_0010098.jpg
+  5c704ae41e1b4b1ea8415f9f6c9e4fcf:
+    span:
+      start: 143039
+      end: 144857
+    imgnum: 99
+    reference: I1NLM956_0010099.jpg
+  6ce391658c304aa0baafae2cc74703c8:
+    span:
+      start: 144858
+      end: 146483
+    imgnum: 100
+    reference: I1NLM956_0010100.jpg
+  00cebc462b4447228302434875734c8c:
+    span:
+      start: 146484
+      end: 146523
+    imgnum: 102
+    reference: I1NLM956_0010102.jpg
+  7548613c900348ab8a4483bccda7d766:
+    span:
+      start: 146524
+      end: 147158
+    imgnum: 103
+    reference: I1NLM956_0010103.jpg
+  b556e6af00be4cb7a88472a427a4716a:
+    span:
+      start: 147159
+      end: 147800
+    imgnum: 104
+    reference: I1NLM956_0010104.jpg
+  6f1dd59731724c0f908beb95b4ce9c42:
+    span:
+      start: 147801
+      end: 149020
+    imgnum: 105
+    reference: I1NLM956_0010105.jpg
+  460433a7b7124f20852eea444d40e859:
+    span:
+      start: 149021
+      end: 150193
+    imgnum: 106
+    reference: I1NLM956_0010106.jpg
+  4ff83dcbcf884bbea3f0c6f915f8cce4:
+    span:
+      start: 150194
+      end: 151424
+    imgnum: 107
+    reference: I1NLM956_0010107.jpg
+  7d6cb03dc84841569e2e2e6c91038f97:
+    span:
+      start: 151425
+      end: 152625
+    imgnum: 108
+    reference: I1NLM956_0010108.jpg
+  c5178f1f5e3244c7b89a3a37c174714b:
+    span:
+      start: 152626
+      end: 153893
+    imgnum: 109
+    reference: I1NLM956_0010109.jpg
+  ad322b322766434e86f5e04ddde008e6:
+    span:
+      start: 153894
+      end: 155106
+    imgnum: 110
+    reference: I1NLM956_0010110.jpg
+  edd3c29f4fe64aad87c041c2d1a9ab3c:
+    span:
+      start: 155107
+      end: 156330
+    imgnum: 111
+    reference: I1NLM956_0010111.jpg
+  d64d4b66184a4ea19e1a37bedb594994:
+    span:
+      start: 156331
+      end: 157584
+    imgnum: 112
+    reference: I1NLM956_0010112.jpg
+  61aef2dd17294a8ab96deed61695b1fa:
+    span:
+      start: 157585
+      end: 158832
+    imgnum: 113
+    reference: I1NLM956_0010113.jpg
+  848df5069cf64240bf35b59f33ac0cc1:
+    span:
+      start: 158833
+      end: 160046
+    imgnum: 114
+    reference: I1NLM956_0010114.jpg
+  0393bee1a4fa43448042cd9fa20899ce:
+    span:
+      start: 160047
+      end: 161239
+    imgnum: 115
+    reference: I1NLM956_0010115.jpg
+  88062f91d9a3409e959a5750f4cb879a:
+    span:
+      start: 161240
+      end: 162467
+    imgnum: 116
+    reference: I1NLM956_0010116.jpg
+  dac445f1e77d4f1299918a0208fdcc47:
+    span:
+      start: 162468
+      end: 163698
+    imgnum: 117
+    reference: I1NLM956_0010117.jpg
+  b703203b738b4e1abd01a8001a8d88da:
+    span:
+      start: 163699
+      end: 164985
+    imgnum: 118
+    reference: I1NLM956_0010118.jpg
+  1f9552b55eed47b8b5d3b59e9fbd9231:
+    span:
+      start: 164986
+      end: 166232
+    imgnum: 119
+    reference: I1NLM956_0010119.jpg
+  1239ee18ac404a1b88c974376182cc2e:
+    span:
+      start: 166233
+      end: 167394
+    imgnum: 120
+    reference: I1NLM956_0010120.jpg
+  d5e405e359464ca193d87bddb52e70df:
+    span:
+      start: 167395
+      end: 167604
+    imgnum: 122
+    reference: I1NLM956_0010122.jpg
+  722564d438ab4f4b8334330e2f7e8861:
+    span:
+      start: 167605
+      end: 168363
+    imgnum: 123
+    reference: I1NLM956_0010123.jpg
+  4d8c0ab46fce4419bb81dd94b7162637:
+    span:
+      start: 168364
+      end: 169197
+    imgnum: 124
+    reference: I1NLM956_0010124.jpg
+  f21b5436c3a34a749a4e3cd22a00a7e0:
+    span:
+      start: 169198
+      end: 170626
+    imgnum: 125
+    reference: I1NLM956_0010125.jpg
+  7187d82c5e714acfab0b4f39945e17aa:
+    span:
+      start: 170627
+      end: 171918
+    imgnum: 126
+    reference: I1NLM956_0010126.jpg
+  b78d26e4a6f34dd1944798341ddd8f67:
+    span:
+      start: 171919
+      end: 173376
+    imgnum: 127
+    reference: I1NLM956_0010127.jpg
+  948dd1bc21d541b7b886debebc329d5b:
+    span:
+      start: 173377
+      end: 174506
+    imgnum: 128
+    reference: I1NLM956_0010128.jpg
+  895349a78cad4c4b9a97a711ac5cdc02:
+    span:
+      start: 174507
+      end: 175199
+    imgnum: 129
+    reference: I1NLM956_0010129.jpg
+  36b035789e0b48929aefc237c01d399c:
+    span:
+      start: 175200
+      end: 175831
+    imgnum: 130
+    reference: I1NLM956_0010130.jpg
+  735a8df8fd1b498ea1d5bf1354e42a16:
+    span:
+      start: 175832
+      end: 175845
+    imgnum: 132
+    reference: I1NLM956_0010132.jpg
+  2f780f94331746b1a5cbfe44d5e2581a:
+    span:
+      start: 175846
+      end: 176641
+    imgnum: 133
+    reference: I1NLM956_0010133.jpg
+  7d4931534aef4816b5e90531cd7cb22d:
+    span:
+      start: 176642
+      end: 177468
+    imgnum: 134
+    reference: I1NLM956_0010134.jpg
+  0808cdd55bd34a62a42e8c2fa1edd122:
+    span:
+      start: 177469
+      end: 178998
+    imgnum: 135
+    reference: I1NLM956_0010135.jpg
+  e97b74f7e58a46c686a57d194863e8b5:
+    span:
+      start: 178999
+      end: 180493
+    imgnum: 136
+    reference: I1NLM956_0010136.jpg
+  01d36ec617ee496cb758145f9548a7f5:
+    span:
+      start: 180494
+      end: 181921
+    imgnum: 137
+    reference: I1NLM956_0010137.jpg
+  1d34f27822ef4b9fab3a9c61cea7e42e:
+    span:
+      start: 181922
+      end: 183368
+    imgnum: 138
+    reference: I1NLM956_0010138.jpg
+  41b480f3461f40a0accaf78f6f6533a5:
+    span:
+      start: 183369
+      end: 184799
+    imgnum: 139
+    reference: I1NLM956_0010139.jpg
+  c0b7e9b3fa2f46b7bcbafb62b53907e0:
+    span:
+      start: 184800
+      end: 185396
+    imgnum: 140
+    reference: I1NLM956_0010140.jpg
+  a6106c9c9804471ba4400940308f8c92:
+    span:
+      start: 185397
+      end: 185506
+    imgnum: 142
+    reference: I1NLM956_0010142.jpg
+  08eef04619314820a204942f65a8266d:
+    span:
+      start: 185507
+      end: 186235
+    imgnum: 143
+    reference: I1NLM956_0010143.jpg
+  2256f0fb4ba545dca40c28c803c4cbaa:
+    span:
+      start: 186236
+      end: 186974
+    imgnum: 144
+    reference: I1NLM956_0010144.jpg
+  054374032300450cb175359caa364d99:
+    span:
+      start: 186975
+      end: 188398
+    imgnum: 145
+    reference: I1NLM956_0010145.jpg
+  1dc0dfc8d52848c190617d36dc49f79a:
+    span:
+      start: 188399
+      end: 189793
+    imgnum: 146
+    reference: I1NLM956_0010146.jpg
+  4f9801b1de444d3793bbc68c6894d4bb:
+    span:
+      start: 189794
+      end: 191152
+    imgnum: 147
+    reference: I1NLM956_0010147.jpg
+  0a9d2ab61bb341f58b5742b05fbb82fc:
+    span:
+      start: 191153
+      end: 192521
+    imgnum: 148
+    reference: I1NLM956_0010148.jpg
+  3fbaabfa1b01446e83ed1cd000e87c6a:
+    span:
+      start: 192522
+      end: 193891
+    imgnum: 149
+    reference: I1NLM956_0010149.jpg
+  ff9e3b50baed449798588fe3741afedd:
+    span:
+      start: 193892
+      end: 195207
+    imgnum: 150
+    reference: I1NLM956_0010150.jpg
+  fd902ed08f424305927714cbfd652580:
+    span:
+      start: 195208
+      end: 195305
+    imgnum: 152
+    reference: I1NLM956_0010152.jpg
+  c194f368ae424560b8a6acf782460667:
+    span:
+      start: 195306
+      end: 196053
+    imgnum: 153
+    reference: I1NLM956_0010153.jpg
+  e90ebfb422414944a6317d7d1a83ae10:
+    span:
+      start: 196054
+      end: 196802
+    imgnum: 154
+    reference: I1NLM956_0010154.jpg
+  18d26b1e08494c9792861ea6557366e0:
+    span:
+      start: 196803
+      end: 198198
+    imgnum: 155
+    reference: I1NLM956_0010155.jpg
+  c34fb393859d49a59fbc10dcad92ddbd:
+    span:
+      start: 198199
+      end: 199680
+    imgnum: 156
+    reference: I1NLM956_0010156.jpg
+  026dbee0d2ef4c1e81f7e6ad14629041:
+    span:
+      start: 199681
+      end: 199987
+    imgnum: 157
+    reference: I1NLM956_0010157.jpg
+  27ed1f37269d4f978e31aa2a662f7fe3:
+    span:
+      start: 199988
+      end: 200068
+    imgnum: 158
+    reference: I1NLM956_0010158.jpg
+  c84236725be9439392a945445c898c9b:
+    span:
+      start: 200069
+      end: 200844
+    imgnum: 159
+    reference: I1NLM956_0010159.jpg
+  d5e778c0cc274826a6ef54da02e9e232:
+    span:
+      start: 200845
+      end: 201622
+    imgnum: 160
+    reference: I1NLM956_0010160.jpg
+  c1b77f4b3b8541c8908aa02ef367aa98:
+    span:
+      start: 201623
+      end: 203085
+    imgnum: 161
+    reference: I1NLM956_0010161.jpg
+  00243850ce564176a45eccdf01a48579:
+    span:
+      start: 203086
+      end: 204528
+    imgnum: 162
+    reference: I1NLM956_0010162.jpg
+  388dbf65d606446ca61532c97a7f1a3f:
+    span:
+      start: 204529
+      end: 206173
+    imgnum: 163
+    reference: I1NLM956_0010163.jpg
+  74ff7929a4f54428aa6212f56fdb601e:
+    span:
+      start: 206174
+      end: 207591
+    imgnum: 164
+    reference: I1NLM956_0010164.jpg
+  245b65d723c54dd7a478a767c98daacd:
+    span:
+      start: 207592
+      end: 209011
+    imgnum: 165
+    reference: I1NLM956_0010165.jpg
+  7470ad7f43604d41b24f0700e50ab38c:
+    span:
+      start: 209012
+      end: 210411
+    imgnum: 166
+    reference: I1NLM956_0010166.jpg
+  6eea2a8f61fb45869d9e6ab7f3fd4502:
+    span:
+      start: 210412
+      end: 211227
+    imgnum: 167
+    reference: I1NLM956_0010167.jpg
